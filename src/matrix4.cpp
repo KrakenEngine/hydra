@@ -32,6 +32,7 @@
 #include "../include/hydra.h"
 
 #include <string.h>
+#include <cstdint>
 
 namespace hydra {
 
